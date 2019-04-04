@@ -1,7 +1,7 @@
 {
-  "name": "sk-programming-nuxt",
+  "name": "SK Programming",
   "version": "1.0.0",
-  "description": "My sweet Nuxt.js project",
+  "description": "My portfolio website",
   "author": "Simon Konstantyner",
   "private": true,
   "scripts": {
