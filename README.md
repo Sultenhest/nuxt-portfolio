@@ -1,6 +1,6 @@
-# sk-programming-nuxt
+# SK Programming
 
-> My sweet Nuxt.js project
+> My portfolio website
 
 ## Build Setup
 
